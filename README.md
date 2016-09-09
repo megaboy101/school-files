@@ -1,2 +1,4 @@
 # school-files
-Public repository to share files between home and school.
+INSTRUCTIONS:
+
+There are no instructions yet, still testing :)
